@@ -1,5 +1,7 @@
 {
   "name": "ibexTest",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
